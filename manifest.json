@@ -1,0 +1,10 @@
+{
+	"manifest_version":2,
+	"version": "1.0",
+	"name": "Cricet Scores",
+	"browser_action": {
+		"default_icon":"ct.png",
+		"default_popup":"scores.html"
+	},
+	"permissions": ["<all_urls>"]
+}
